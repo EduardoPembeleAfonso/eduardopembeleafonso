@@ -1,8 +1,6 @@
 <h1 align="center">Hello👋, I am Eduardo Pembele Afonso</h1>
 <h3 align="center">A programmer with a passion for Back End and Mobile development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopembeleafonso&label=Profile%20views&color=0e75b6&style=flat" alt="eduardopembeleafonso" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardopembeleafonso" alt="eduardopembeleafonso" /></a> </p>
 
 - 🔭 I’m currently working on **On the Backend of a streaming control system**
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardopembeleafonso&show_icons=true&locale=en" alt="eduardopembeleafonso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardopembeleafonso&" alt="eduardopembeleafonso" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopembeleafonso&label=Profile%20views&color=0e75b6&style=flat" alt="eduardopembeleafonso" /> </p>
