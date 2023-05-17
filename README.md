@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopembeleafonso&label=Profile%20views&color=0e75b6&style=flat" alt="eduardopembeleafonso" /> </p>
 
-
 - 🔭 I’m currently working on **On the Backend of a streaming control system**
 
 - 🌱 I’m currently learning **Dart, Flutter**
@@ -17,6 +16,7 @@
 <a href="https://linkedin.com/in/eduardo-pembele-afonso-b789441a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-pembele-afonso-b789441a7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19459719/eduardo-latchizy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19459719/eduardo-latchizy" height="30" width="40" /></a>
 <a href="https://fb.com/eduardo.afonsohda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eduardo.afonsohda" height="30" width="40" /></a>
+<a href="https://instagram.com/@eduardopembeleafonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eduardopembeleafonso" height="30" width="40" /></a>
 <a href="https://medium.com/@eduardopembeleafonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eduardopembeleafonso" height="30" width="40" /></a>
 </p>
 
@@ -28,6 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardopembeleafonso&show_icons=true&locale=en" alt="eduardopembeleafonso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardopembeleafonso&" alt="eduardopembeleafonso" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardopembeleafonso" alt="eduardopembeleafonso" /></a> </p>
-
