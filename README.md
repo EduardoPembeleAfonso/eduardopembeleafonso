@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardopembeleafonso&label=Profile%20views&color=0e75b6&style=flat" alt="eduardopembeleafonso" /> </p>
 
-- 🔭 I’m currently working on **On the Backend of a streaming control system**
+- 🔭 I’m currently working on **P.N Clique**
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
